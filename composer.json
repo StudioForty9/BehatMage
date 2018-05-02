@@ -1,12 +1,12 @@
 {
-    "name": "magetest/magento-behat-extension",
+    "name": "sf9/magento-behat-extension",
     "description": "Magento Behat extension",
     "type": "library",
     "keywords": ["behat","bdd","magento"],
     "homepage": "https://github.com/MageTest/BehatMage",
     "license": "MIT",
     "require": {
-        "php": "~5.3|~7.0",
+        "php": "~5.3|~7.0|~7.1|~7.2",
         "behat/behat": "^3.0.15",
         "behat/mink-extension": "~2",
         "behat/mink-goutte-driver": "~1.1.0"
